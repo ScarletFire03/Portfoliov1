@@ -7,8 +7,5 @@ function changeFrame(value){
         case 1:
             mainFrame.src = 'html/galleryEN.html';
             break;
-        case 2:
-            mainFrame.src = 'html/contactEN.html';
-            break;
     }
 }
