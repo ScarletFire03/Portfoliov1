@@ -2,13 +2,13 @@ function changeFrame(value){
     const mainFrame = document.getElementById('mainFrame');
     switch (value){
         case 0:
-            mainFrame.src = 'html/aboutEN.html';
+            mainFrame.src = 'https://scarletfire03.github.io/Portfoliov1/html/aboutEN.html';
             break;
         case 1:
-            mainFrame.src = 'html/galleryEN.html';
+            mainFrame.src = 'https://scarletfire03.github.io/Portfoliov1/html/galleryEN.html';
             break;
         case 2:
-            mainFrame.src = 'html/contactEN.html';
+            mainFrame.src = 'https://scarletfire03.github.io/Portfoliov1/html/contactEN.html';
             break;
     }
 }
