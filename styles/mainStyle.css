@@ -42,3 +42,12 @@ span.link:hover{
     background: #00000088;
     color: white;
 }
+.flexbox{
+    display: flex;
+    flex-wrap: wrap;
+}
+.fleximg{
+    height: 40vh;
+    padding: 5vh;
+    width: auto;
+}
