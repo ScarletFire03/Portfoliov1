@@ -1,0 +1,35 @@
+.left{
+    float: left;
+}
+.right{
+    float: right;;
+}
+header{
+    padding: 1% 1% 0 1%;
+    display: inline-block;
+    width: 97vw;
+    margin: auto;
+    border-bottom: 2px solid red;
+}
+html{
+    background: darkslateblue;
+    font-family: Arial sans-serif;
+    font-size: 1.5rem;
+    color: lavender;
+}
+iframe{
+    width: 100%;
+    margin: auto;
+    border: none;
+}
+span.link{
+    border-left: 2px solid darkred;
+    border-right: 2px solid darkred;
+    background: #00000044;
+    margin-right: 0.5vw;
+}
+span.link:hover{
+    cursor: pointer;
+    background: #00000088;
+    color: white;
+}
